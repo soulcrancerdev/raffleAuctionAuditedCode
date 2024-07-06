@@ -161,4 +161,3 @@ The tests are located at the `tests` subdir. To run them:
   [instruction](https://www.anchor-lang.com/docs/installation);
 * Run `yarn` to install the node dependencies.
 * Run `yarn test` to run all the tests.
-
