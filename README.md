@@ -1,4 +1,4 @@
-# Justies Solana Program
+# Raffle Auction
 ## Use cases
 
 Justies is a webapp that supports creation of auctions and raffles. The code repo contains the implementation of
